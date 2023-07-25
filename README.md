@@ -1,1 +1,2 @@
-# trabalho-alura
+# aluratrabaio
+projeto feito durante o curso 
